@@ -5,28 +5,30 @@ import { FiChevronUp } from "react-icons/fi";
 import Header from "./Header";
 //import Helmet from "./Helmet";
 
+import golfBall from "../assets/images/golf-ball.jpg"
+import tshirtHat from "../assets/images/tshirt-hat.jpg"
 
 const PortfolioList = [
     {
-        images: 'golf-ball',
+        images: golfBall,
         category: '限量200組',
         title: '曾雅妮簽名球 / NT$2000',
         buttonText: '立即購買'
     },
     {
-        images: 'tshirt-hat',
+        images: tshirtHat,
         category: '限量50組',
         title: '曾雅妮簽名T-shirt+帽子 / NT$6000',
         buttonText: '立即購買'
     },
     {
-        images: 'golf-ball',
+        images: golfBall,
         category: '',
         title: '贊助的東東',
         buttonText: '立即購買'
     },
     {
-        images: 'tshirt-hat',
+        images: tshirtHat,
         category: '',
         title: '歡迎募款',
         buttonText: '我要募款'
@@ -53,7 +55,7 @@ const Main = () => {
                                 <div className="portfolio-style--3">
                                     <div className="thumbnail">
                                         <a href="/portfolio-details">
-                                            <img className="w-100" style={{ height: 400 }} src={`/assets/images/${value.images}.jpg`} alt="Portfolio Images" />
+                                            <img className="w-100" style={{ height: 400 }} src={value.images} alt="Portfolio Images" />
                                         </a>
                                     </div>
                                     <div className="content">
