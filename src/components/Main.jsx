@@ -2,7 +2,7 @@ import React from 'react';
 import ScrollToTop from 'react-scroll-up';
 import Footer from "./Footer";
 import { FiChevronUp } from "react-icons/fi";
-import Header from "./HeaderFour";
+import Header from "./Header";
 //import Helmet from "./Helmet";
 
 

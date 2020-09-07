@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { FiX, FiMenu } from "react-icons/fi";
 
 
-class HeaderFour extends Component {
+class Header extends Component {
     constructor(props) {
         super(props);
         this.menuTrigger = this.menuTrigger.bind(this);
@@ -32,19 +32,7 @@ class HeaderFour extends Component {
 
         const { logo, color, headerPosition } = this.props;
         let logoUrl;
-        if (logo === 'light') {
-            logoUrl = <img src="/assets/images/logo/logo-light.png" alt="Trydo" />;
-        } else if (logo === 'dark') {
-            logoUrl = <img src="/assets/images/logo/logo-dark.png" alt="Trydo" />;
-        } else if (logo === 'symbol-dark') {
-            logoUrl = <img src="/assets/images/logo/logo-symbol-dark.png" alt="Trydo" />;
-        } else if (logo === 'all-dark') {
-            logoUrl = <img src="/assets/images/logo/logo-all-dark.png" alt="Trydo" />;
-        } else if (logo === 'symbol-light') {
-            logoUrl = <img src="/assets/images/logo/logo-symbol-light.png" alt="Trydo" />;
-        } else {
-            logoUrl = <img src="/assets/images/logo/logo.png" alt="Trydo" />;
-        }
+
 
         return (
             <header className={`header-area formobile-menu ${headerPosition} ${color}`}>
@@ -52,7 +40,7 @@ class HeaderFour extends Component {
                     <div className="header-left">
                         <div className="logo">
                             <a href="/">
-                                {logoUrl}
+
                             </a>
                         </div>
                     </div>
@@ -137,4 +125,4 @@ class HeaderFour extends Component {
         )
     }
 }
-export default HeaderFour;
+export default Header;
