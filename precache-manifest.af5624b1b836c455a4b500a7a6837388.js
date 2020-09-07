@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f4af0ca8455872004eb9de13284e9aa",
+    "revision": "42642c3e1aebe31944fbe780eb2e4ff5",
     "url": "/golf-shopping-cart/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golf-shopping-cart/static/css/2.33c28bf1.chunk.css"
   },
   {
-    "revision": "000519dd7f044c1c5aab",
+    "revision": "63cf1a01052a7e8e00b1",
     "url": "/golf-shopping-cart/static/css/main.d19c3cd6.chunk.css"
   },
   {
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golf-shopping-cart/static/js/2.49e91ae0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "000519dd7f044c1c5aab",
-    "url": "/golf-shopping-cart/static/js/main.1d0e0e44.chunk.js"
+    "revision": "63cf1a01052a7e8e00b1",
+    "url": "/golf-shopping-cart/static/js/main.c2250ff6.chunk.js"
   },
   {
     "revision": "75e223b9f1bb3058deec",
     "url": "/golf-shopping-cart/static/js/runtime-main.511605fc.js"
+  },
+  {
+    "revision": "6dc6f07dbd9ead65393205d6c84e1851",
+    "url": "/golf-shopping-cart/static/media/golf-ball.6dc6f07d.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -46,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/golf-shopping-cart/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "acc47c02a02b23b55919243c547cfeb8",
+    "url": "/golf-shopping-cart/static/media/tshirt-hat.acc47c02.jpg"
   }
 ]);
