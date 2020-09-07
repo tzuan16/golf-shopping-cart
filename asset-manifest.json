@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/golf-shopping/static/css/main.d19c3cd6.chunk.css",
-    "main.js": "/golf-shopping/static/js/main.64521f87.chunk.js",
-    "main.js.map": "/golf-shopping/static/js/main.64521f87.chunk.js.map",
-    "runtime-main.js": "/golf-shopping/static/js/runtime-main.516f3b8b.js",
-    "runtime-main.js.map": "/golf-shopping/static/js/runtime-main.516f3b8b.js.map",
-    "static/css/2.bc3c2632.chunk.css": "/golf-shopping/static/css/2.bc3c2632.chunk.css",
-    "static/js/2.49e91ae0.chunk.js": "/golf-shopping/static/js/2.49e91ae0.chunk.js",
-    "static/js/2.49e91ae0.chunk.js.map": "/golf-shopping/static/js/2.49e91ae0.chunk.js.map",
-    "index.html": "/golf-shopping/index.html",
-    "precache-manifest.d9bd358ae7f8a373fdefcefa9662a8a7.js": "/golf-shopping/precache-manifest.d9bd358ae7f8a373fdefcefa9662a8a7.js",
-    "service-worker.js": "/golf-shopping/service-worker.js",
-    "static/css/2.bc3c2632.chunk.css.map": "/golf-shopping/static/css/2.bc3c2632.chunk.css.map",
-    "static/css/main.d19c3cd6.chunk.css.map": "/golf-shopping/static/css/main.d19c3cd6.chunk.css.map",
-    "static/js/2.49e91ae0.chunk.js.LICENSE.txt": "/golf-shopping/static/js/2.49e91ae0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/golf-shopping/static/media/logo.5d5d9eef.svg",
-    "static/media/index.scss": "/golf-shopping/static/media/slick.f97e3bbf.svg"
+    "main.css": "/golf-shopping-cart/static/css/main.d19c3cd6.chunk.css",
+    "main.js": "/golf-shopping-cart/static/js/main.1d0e0e44.chunk.js",
+    "main.js.map": "/golf-shopping-cart/static/js/main.1d0e0e44.chunk.js.map",
+    "runtime-main.js": "/golf-shopping-cart/static/js/runtime-main.511605fc.js",
+    "runtime-main.js.map": "/golf-shopping-cart/static/js/runtime-main.511605fc.js.map",
+    "static/css/2.33c28bf1.chunk.css": "/golf-shopping-cart/static/css/2.33c28bf1.chunk.css",
+    "static/js/2.49e91ae0.chunk.js": "/golf-shopping-cart/static/js/2.49e91ae0.chunk.js",
+    "static/js/2.49e91ae0.chunk.js.map": "/golf-shopping-cart/static/js/2.49e91ae0.chunk.js.map",
+    "index.html": "/golf-shopping-cart/index.html",
+    "precache-manifest.72cf750e6c79b3cc02406de2cc8db65e.js": "/golf-shopping-cart/precache-manifest.72cf750e6c79b3cc02406de2cc8db65e.js",
+    "service-worker.js": "/golf-shopping-cart/service-worker.js",
+    "static/css/2.33c28bf1.chunk.css.map": "/golf-shopping-cart/static/css/2.33c28bf1.chunk.css.map",
+    "static/css/main.d19c3cd6.chunk.css.map": "/golf-shopping-cart/static/css/main.d19c3cd6.chunk.css.map",
+    "static/js/2.49e91ae0.chunk.js.LICENSE.txt": "/golf-shopping-cart/static/js/2.49e91ae0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/golf-shopping-cart/static/media/logo.5d5d9eef.svg",
+    "static/media/index.scss": "/golf-shopping-cart/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.516f3b8b.js",
-    "static/css/2.bc3c2632.chunk.css",
+    "static/js/runtime-main.511605fc.js",
+    "static/css/2.33c28bf1.chunk.css",
     "static/js/2.49e91ae0.chunk.js",
     "static/css/main.d19c3cd6.chunk.css",
-    "static/js/main.64521f87.chunk.js"
+    "static/js/main.1d0e0e44.chunk.js"
   ]
 }
